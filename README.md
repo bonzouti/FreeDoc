@@ -1,1 +1,1 @@
-  <h1 style="color:red;"> FreeDoc baaby </h1>
+  <h1> FreeDoc baaby </h1>
