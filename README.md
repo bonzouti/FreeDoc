@@ -1,2 +1,1 @@
-  <h1> FreeDoc baaby </h1>
-<style> body { color : red; } </style>
+  <h1 style="color:red;"> FreeDoc baaby </h1>
